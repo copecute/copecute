@@ -31,8 +31,3 @@
 </div>
 
 <br>
-<style>
-  .js-pinned-items-reorder-container{
-    display:none!important;
-    }
-</style>
