@@ -12,7 +12,7 @@
 - `Study` information technology at: [Ha Noi Polytechnic College](#)
 - `Owner` of a Youtube Channel: `Đàm Minh Giang` [https://youtube.com/easyfrontend](https://youtube.com/damminhgiang?sub_confirmation=1)
 - `Owner` of website [https://giang.name.vn/](https://giang.name.vn/) where I can share my favorite topics via blog posts.
-
+<br>
 <h2 align="center"> Where to find me </h2>
 <br>
 <div align="center">
