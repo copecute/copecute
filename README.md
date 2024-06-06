@@ -11,7 +11,7 @@
 - `Chairman` at MinhGiangPc: [https://minhgiangpc.com/](https://minhgiangpc.com/)
 - `Study` information technology at: [Ha Noi Polytechnic College](#)
 - `Owner` of a Youtube Channel: `Đàm Minh Giang` [https://youtube.com/damminhgiang](https://youtube.com/damminhgiang?sub_confirmation=1)
-- `Owner` of website [https://giang.name.vn/](https://giang.name.vn/) where I can share my favorite topics via blog posts.
+- `Owner` of website [https://giang.name.vn/](https://giang.name.vn/) and [https://minhgiang.pro/](https://minhgiang.pro/) where I can share my favorite topics via blog posts.
 <br>
 <h2 align="center"> Where to find me </h2>
 <br>
@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/damminhgiang?sub_confirmation=1" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="copecute-youtube" />
   </a>
-  <a href="https://instagram.com/copecute_" target="blank">
+  <a href="https://instagram.com/copesocute" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="copecute-instagram" />
   </a>
   <a href="mailto:tcopecute@outlook.com" target="top">
